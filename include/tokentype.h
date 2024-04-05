@@ -9,7 +9,7 @@ typedef enum TokenType {
     // Identifier
     IDENTIFIER = 0,
     // Datatype
-    CONSTANT = 1, INT = 1, FLOAT = 2, STRING = 3, DATATYPE = 4,
+    INT = 1, FLOAT = 2, STRING = 3, DATATYPE = 4,
     // Operators
     ASSIGN = 18, ADD = 5, MULTIPLY = 6, RELATIONAL = 7,
     // Logical Operators
